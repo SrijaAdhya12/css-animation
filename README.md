@@ -44,7 +44,7 @@
 
 ## Preview
 
-![ExpenseApp](https://github.com/user-attachments/assets/74f30189-9d54-40c8-a87d-f35f7f0cea6f)
+![CSS Animations](https://github.com/user-attachments/assets/2c0105ef-b3f4-43c1-8643-3893ec087941)
 
 
 ![line]
