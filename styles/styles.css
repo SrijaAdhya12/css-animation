@@ -185,3 +185,11 @@ button {
 .btn.btn-border-underline:focus::before {
 	transform: scaleX(1);
 }
+
+/*Animation 4 & Animation 5*/
+
+.animation-4-5 {
+	margin-top: -10px;
+	display: flex;
+	flex-direction: column;
+}
