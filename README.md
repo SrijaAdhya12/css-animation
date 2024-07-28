@@ -1,4 +1,4 @@
-    updated on: 29th July 2024, Sunday
+    updated on: 29th July 2024, Monday
 
 <div align=center>
     <a href="https://github.com/SrijaAdhya12/css-animation">
